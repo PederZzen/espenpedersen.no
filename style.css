@@ -1,0 +1,15 @@
+body {
+    font-family: 'Anton', sans-serif;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    position: relative;
+    top: -30px;
+}
+
